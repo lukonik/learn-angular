@@ -2,46 +2,7 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# წინასიტყვაობა
 
-Let's discover **Docusaurus in less than 5 minutes**.
-
-## Getting Started
-
-Get started by **creating a new site**.
-
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
-
-### What you'll need
-
-- [Node.js](https://nodejs.org/en/download/) version 14 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
-
-## Generate a new site
-
-Generate a new Docusaurus site using the **classic template**.
-
-The classic template will automatically be added to your project after you run the command:
-
-```bash
-npm init docusaurus@latest my-website classic
-```
-
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
-
-The command also installs all necessary dependencies you need to run Docusaurus.
-
-## Start your site
-
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+სანამ იმის ახსნას დავიწყებდე თუ რა არის ანგულარი, მანამდე მოგიყვებით როგორ აღმოვაჩინე მისი არსებობა. ერთ-ერთ სამსახურში ვმუშაობიდ Full-Stack დეველოპერად სადაც ვიყენებდით ადმინს რომელიც იყო აწყობილი აწ მივიწყებულ  [Extjs](https://www.sencha.com/products/extjs/) პლატფორმაზე. რომელიც საერთოდ არ მომწონდა და ყოველთვის ვცდილობდი თავი ამერიდებინა. ისე მოხდა, რომ მოგვიწია ახალი ადმინის აწყობა და მაშინ გადავაწყდი პირველად [AngularJS](https://angularjs.org/). რამდენიმე დღიანი ხვეწნის შემდეგ ჩემი უფროსი დავითანხმე რომ ანგულარზე აგვეწყო ეს აპლიკაცია, რასაც მოყვა ExtJS არსებული ადმინის ანგულარზე გადაწერა და საბოლოოდ ჩემი ჩამოყალიბება როგორც ანგულარ-ზე დამოკიდებულ პროგრამისტად. დაუსრულებელი საათების დოკუმენტაციის კითხვის ვიდეოების ყურების ანგულარის კოდში 
+ქექვის შემდეგ, როგორც იქნა მივედი იმ დონემდე როდესაც შემიძლია სხვასაც გავუზიარო ეს ცოდნა. 
