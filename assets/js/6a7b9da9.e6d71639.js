@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunklearn_angular=self.webpackChunklearn_angular||[]).push([[357],{3158:function(a){a.exports=JSON.parse('{"allTagsPath":"/learn-angular/blog/tags","slug":"/learn-angular/blog/tags/hola","name":"hola","count":1,"permalink":"/learn-angular/blog/tags/hola"}')}}]);

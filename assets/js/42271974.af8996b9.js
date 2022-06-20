@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunklearn_angular=self.webpackChunklearn_angular||[]).push([[717],{2796:function(a){a.exports=JSON.parse('{"allTagsPath":"/learn-angular/blog/tags","slug":"/learn-angular/blog/tags/docusaurus","name":"docusaurus","count":4,"permalink":"/learn-angular/blog/tags/docusaurus"}')}}]);
